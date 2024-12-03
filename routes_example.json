@@ -1,0 +1,12 @@
+{
+    "bearer_token": null,
+    "num_requests": 10,
+    "timeout": 5,
+    "routes": {
+        "getGoogle": {
+            "url": "https://www.google.com/",
+            "method": "GET",
+            "body":  null
+        }
+    }
+}

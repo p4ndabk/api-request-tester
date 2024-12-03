@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# IDEs e editores
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+
+# Arquivos gerados
+*.log
+*.csv
+
+# Arquivos específicos do sistema operacional
+Thumbs.db
+
+.routes.json
+.response_times.csv
