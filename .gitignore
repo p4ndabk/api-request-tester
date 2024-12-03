@@ -30,5 +30,5 @@ env/
 # Arquivos específicos do sistema operacional
 Thumbs.db
 
-.routes.json
-.response_times.csv
+routes.json
+response_times.csv
